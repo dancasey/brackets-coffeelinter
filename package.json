@@ -1,0 +1,19 @@
+{
+    "name": "brackets-coffeelinter",
+    "title": "Coffeelinter",
+    "description": "Makes CoffeeLint the Brackets linter for CoffeeScript files. Very simple.",
+    "homepage": "https://github.com/dancasey/brackets-coffeelinter",
+    "version": "0.1.0",
+    "author": "Dan Casey",
+    "license": "MIT",
+    "keywords": [
+        "lint",
+        "coffeescript",
+        "coffee",
+        "coffeelint"
+    ],
+    "categories": "linting",
+    "engines": {
+        "brackets": ">=0.42.0"
+    }
+}
